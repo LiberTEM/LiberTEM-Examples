@@ -1,3 +1,3 @@
-libertem
+libertem[hdbscan,torch,pyfftw]
 requests
 tqdm
