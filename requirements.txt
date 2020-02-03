@@ -1,0 +1,3 @@
+libertem
+requests
+tqdm
