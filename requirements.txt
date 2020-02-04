@@ -1,4 +1,6 @@
-libertem[hdbscan,torch,pyfftw]
+# FIXME use released version as soon as required features #549 #571 are released. Expected in 0.4.0
+# libertem[hdbscan,torch,pyfftw]
+-e git+https://github.com/LiberTEM/LiberTEM#egg=libertem[hdbscan,torch,pyfftw]
 numpy
 matplotlib
 sklearn
