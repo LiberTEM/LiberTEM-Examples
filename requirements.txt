@@ -3,6 +3,6 @@
 -e git+https://github.com/LiberTEM/LiberTEM#egg=libertem[hdbscan,torch,pyfftw]
 numpy
 matplotlib
-sklearn
+scikit-learn
 requests
 tqdm
