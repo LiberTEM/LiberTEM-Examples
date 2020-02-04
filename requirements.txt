@@ -1,3 +1,6 @@
 libertem[hdbscan,torch,pyfftw]
+numpy
+matplotlib
+sklearn
 requests
 tqdm
